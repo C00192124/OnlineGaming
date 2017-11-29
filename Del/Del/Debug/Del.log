@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(593): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(614): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(624): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(640): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(655): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(670): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(683): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(686): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming-master\del\del\source.cpp(697): warning C4018: '<': signed/unsigned mismatch
+  Del.vcxproj -> C:\Users\gameuser\Desktop\Online-Gaming-master\Del\Debug\Del.exe
+  Del.vcxproj -> C:\Users\gameuser\Desktop\Online-Gaming-master\Del\Debug\Del.pdb (Partial PDB)
